@@ -22,17 +22,6 @@ Here are some ideas to get you started:
   <summary>:label: Top Languages</summary><br/>
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josecesparza&layout=compact&theme=dark&hide=php&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<details open>
-  <summary>:label: General</summary>
-  <br />
 
-  [![Jose's GitHub stats](./profile/stats.svg)](https://github.com/josecesparza)
-</details>
 
-<details open>
-  <summary>:label: Top Languages</summary>
-  <br />
-
-  [![Top Languages](./profile/top-langs.svg)](https://github.com/josecesparza?tab=repositories)
-</details>
 
